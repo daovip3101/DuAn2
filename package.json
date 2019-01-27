@@ -1,0 +1,19 @@
+{
+  "name": "NodeSever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.5",
+    "mongoose-auto-increment": "^5.0.1",
+    "parser": "^0.1.4"
+  }
+}
